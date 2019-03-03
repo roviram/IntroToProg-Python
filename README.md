@@ -1,2 +1,2 @@
 # IntroToProg-Python
-This repository will be used for reviewing homework assignments
+UW Intro to Python Programming Course
